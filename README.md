@@ -53,6 +53,7 @@ Bankers by Credit Range Category
 
 Step 8: Add Interactive Filters
 - Added slicers for "Exit" and "Geography" enabling users to filter data by specific exiting or non-exiting customers in France, Germany, or Spain.
+  
 ![filter](https://github.com/user-attachments/assets/7c997dff-0d3c-483a-8628-4505dfd5aa0d)
 
 
