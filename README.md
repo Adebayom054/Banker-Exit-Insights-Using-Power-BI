@@ -1,16 +1,11 @@
 # Banker-Exit-Insights
 
+# Summary
+This dashboard provides insights into patterns observed when bankers exit. It analyzes variables such as purchased products, credit score, age, account balance, and whether they are credit card holders or active members of the bank.
 
-# Project: Banker Exit Insights
 
 # Dashboard
 ![image](https://github.com/user-attachments/assets/9a1bb22b-bbd8-4ed2-a4d8-8d5c19e04434)
-
-
-
-# Objective
-
-This dashboard provides insights into patterns observed when bankers exit. It analyzes variables such as purchased products, credit score, age, account balance, and whether they are credit card holders or active members of the bank.
 
 # Steps to Create the Dashboard
 Step 1: Load Data into Power BI Desktop
