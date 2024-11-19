@@ -56,7 +56,12 @@ Step 8: Add Interactive Filters
   
 ![filter](https://github.com/user-attachments/assets/7c997dff-0d3c-483a-8628-4505dfd5aa0d)
 
+Step 9: Utilize Drill Through Function
+- Added a drill-through feature in the treemap, allowing users to access detailed banker information such as CustomerID, Surname, Tenure, etc for deeper insights.
 
+![image](https://github.com/user-attachments/assets/311a0563-7f7e-4d77-a1d6-edaf3c89e593)
+
+  
 Step 10: Document Visualizations and Functionality
 - Screenshots of each visual were added to the accompanying analysis document, with explanations for each chart type chosen.
 - Verified and documented that filter functionality works as expected.
