@@ -65,18 +65,23 @@ Step 10: Document Visualizations and Functionality
 # Insights from the Dashboard
 In France, Germany, and Spain
 - Bankers who purchased more products were more likely to exit.
+  
 ![image](https://github.com/user-attachments/assets/a5a3144d-185f-4592-bd5f-2c45d0dbca96)
 
 - Although most bankers were credit card holders, exiting bankers were generally not active members of the bank.
+  
 ![image](https://github.com/user-attachments/assets/1359327c-0337-4d71-820f-2fa4a8a97d91)
 
 - Both exiting and non-exiting bankers had credit scores between 300 and 739, classified as Poor, Fair, or Good.
+  
 ![image](https://github.com/user-attachments/assets/43d9f400-abfd-4813-9031-e0f3c25d19ea)
 
 - The data is most dense for *exiting bankers* in the age range of ~30-60 at balance ~$50K-200K
+
 ![image](https://github.com/user-attachments/assets/6ffc4bbf-81c4-4164-9857-a9410ccd6fd1)
 
 - The data is most dense for *non-exiting bankers* in the age range of ~18-60 at balance ~$50K-200K
+
 ![image](https://github.com/user-attachments/assets/ce871ee0-1ab1-4a75-8fdc-78cbcacac221)
 
 
