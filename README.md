@@ -1,5 +1,7 @@
 # Banker-Exit-Insights
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
 # Summary
 This dashboard provides insights into patterns observed when bankers exit. It analyzes variables such as purchased products, credit score, age, account balance, and whether they are credit card holders or active members of the bank.
 
